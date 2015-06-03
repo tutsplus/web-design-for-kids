@@ -1,0 +1,47 @@
+body {
+  /* Sets the background for the entire page to a light yellow color */
+  background-color: #FAF8DA;
+  font-family: 'Open Sans', sans-serif; /* Font from Google Fonts */
+}
+
+/* begin header styling */
+.main-heading {
+  font-size: 70px;
+  color: #205D76;
+}
+
+.town-preview {
+  width: 650px;
+}
+/* end header styling */
+
+/* begin main styling */
+.building {
+  width: 200px;
+}
+
+.category-heading {
+  color: #205D76;
+  font-size: 30px;
+}
+
+.store-list {
+  color: #FFC122; /* this will make sure the bullet points turn dark yellow! */
+}
+
+.store-link {
+  color: #EA6E2F;
+  font-size: 20px;
+}
+/* end main styling */
+
+/* begin footer styling */
+.primary-footer {
+  background-color: #FFC122;
+}
+
+.created-by {
+  color: #FFFFFF;
+  font-size: 20px;
+}
+/* end footer styling */
